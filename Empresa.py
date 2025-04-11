@@ -1,6 +1,3 @@
-class Empresa:
-    pass
-
 class Productos:
     def __init__(self, nombre, fecha_caducidad, N_Lote, peso, medida):
         self.nombre = nombre
