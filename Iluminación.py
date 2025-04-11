@@ -1,3 +1,6 @@
+class Lampara:
+    pass
+
 class SistemaIluminacion:
     def __init__(self, brillo_inicial):
         self._brillo = brillo_inicial
