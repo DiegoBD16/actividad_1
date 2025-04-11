@@ -1,5 +1,4 @@
-class producto:
-    pass
+#comentario
 
 class Productos:
     def __init__(self, nombre, fecha_caducidad, N_Lote, peso, medida):
