@@ -1,0 +1,2 @@
+class nuevo:
+    pass
